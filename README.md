@@ -1,21 +1,24 @@
-# 👋 Hi, I'm Mohmed
+# 👋 Salut, je suis Mohmed
 
-## Who am I?
-💻 Full Stack Web Developer with experience in React, Laravel, and Spring Boot.  
-Passionate about building interactive web apps and solving real-world problems.
+## Qui suis-je ?
 
-## What am I currently working on?
-🚀 Developing a Doctor Appointment System with real-time notifications and a dashboard for admins, doctors, and patients.
+💻 Développeur Web Full Stack avec de l’expérience en Angular, Laravel et Spring Boot.
+Passionné par la création d’applications web interactives et la résolution de problèmes concrets.
 
-## What tools do I use?
-- **Frontend:** Angular, Tailwind CSS, Bootstrap  
-- **Backend:** Laravel, Spring Boot 
-- **Database:** PostgreSQL, MongoDB  
-- **DevOps:** Docker, GitHub Actions  
-- **Other:** Postman, VS Code, Git
+## Sur quoi je travaille actuellement ?
 
-## How to reach me?
-- GitHub: [github](hhttps://github.com/MohamedHanafiAlaoui)  
-- LinkedIn: [link]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mohamed-hanafi-alaoui/))  
-- Email: hanafimohamed510@gmail.com
+🚀 Développement d’un système de prise de rendez-vous médical avec notifications en temps réel et tableau de bord pour les administrateurs, médecins et patients.
 
+## Quels outils j’utilise ?
+
+* **Frontend :** Angular, Tailwind CSS, Bootstrap
+* **Backend :** Laravel, Spring Boot
+* **Base de données :** PostgreSQL, MongoDB
+* **DevOps :** Docker, GitHub Actions
+* **Autres :** Postman, VS Code, Git
+
+## Comment me contacter ?
+
+* GitHub : [github.com/MohamedHanafiAlaoui](https://github.com/MohamedHanafiAlaoui)
+* LinkedIn : [linkedin.com/in/mohamed-hanafi-alaoui](https://www.linkedin.com/in/mohamed-hanafi-alaoui/)
+* Email : [hanafimohamed510@gmail.com](mailto:hanafimohamed510@gmail.com)
