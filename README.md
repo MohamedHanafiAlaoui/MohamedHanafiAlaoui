@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohmed
 
-<!--
-**MohamedHanafiAlaoui/MohamedHanafiAlaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+💻 Full Stack Web Developer with experience in React, Laravel, and Spring Boot.  
+Passionate about building interactive web apps and solving real-world problems.
 
-Here are some ideas to get you started:
+## What am I currently working on?
+🚀 Developing a Doctor Appointment System with real-time notifications and a dashboard for admins, doctors, and patients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What tools do I use?
+- **Frontend:** Angular, Tailwind CSS, Bootstrap  
+- **Backend:** Laravel, Spring Boot 
+- **Database:** PostgreSQL, MongoDB  
+- **DevOps:** Docker, GitHub Actions  
+- **Other:** Postman, VS Code, Git
+
+## How to reach me?
+- GitHub: [github](hhttps://github.com/MohamedHanafiAlaoui)  
+- LinkedIn: [link]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mohamed-hanafi-alaoui/))  
+- Email: hanafimohamed510@gmail.com
+
